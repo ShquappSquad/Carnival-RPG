@@ -1,1 +1,1 @@
-# MerchantRPG
+# Carnival-RPG
